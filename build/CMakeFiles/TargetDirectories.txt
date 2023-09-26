@@ -1,0 +1,5 @@
+/home/pandacom/ws/switch_controller/build/CMakeFiles/switch_controller.dir
+/home/pandacom/ws/switch_controller/build/CMakeFiles/package.dir
+/home/pandacom/ws/switch_controller/build/CMakeFiles/package_source.dir
+/home/pandacom/ws/switch_controller/build/CMakeFiles/edit_cache.dir
+/home/pandacom/ws/switch_controller/build/CMakeFiles/rebuild_cache.dir

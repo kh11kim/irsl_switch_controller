@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/pandacom/ws/switch_controller/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -D_OS_UNIX -I/home/pandacom/ws/switch_controller/include -I/usr/include/eigen3 -I/home/pandacom/ws/switch_controller/include/kortex_api -I/home/pandacom/ws/switch_controller/include/kortex_api/client -I/home/pandacom/ws/switch_controller/include/kortex_api/common -I/home/pandacom/ws/switch_controller/include/kortex_api/messages -I/home/pandacom/ws/switch_controller/include/kortex_api/client_stubs -I/home/pandacom/ws/switch_controller/include/kortex_api/cxxopts -isystem /opt/ros/noetic/include -O3 -DNDEBUG -std=gnu++14 -pthread -o CMakeFiles/switch_controller.dir/src/switch_controller.cpp.o -c /home/pandacom/ws/switch_controller/src/switch_controller.cpp",
+  "file": "/home/pandacom/ws/switch_controller/src/switch_controller.cpp",
+  "output": "CMakeFiles/switch_controller.dir/src/switch_controller.cpp.o"
+}
+]
